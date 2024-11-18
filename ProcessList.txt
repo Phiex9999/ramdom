@@ -1,0 +1,316 @@
+***********************************************
+*               _   _   _   _                 *
+*              / \ / \ / \ / \                *
+*             ( M | E | T | A )               *
+*              \_/ \_/ \_/ \_/                *
+*                                             *
+*    Telegram: https://t.me/metastealer_bot   *
+***********************************************
+
+ID: 940, Name: csrss.exe,  CommandLine: 
+===============
+ID: 1240, Name: winlogon.exe,  CommandLine: 
+===============
+ID: 1292, Name: fontdrvhost.exe,  CommandLine: 
+===============
+ID: 1692, Name: dwm.exe,  CommandLine: 
+===============
+ID: 2868, Name: atieclxx.exe,  CommandLine: 
+===============
+ID: 3240, Name: ETDCtrlHelper.exe,  CommandLine: 
+===============
+ID: 3248, Name: ETDCtrl.exe,  CommandLine: C:\Windows\system32\ETDCtrl.exe
+===============
+ID: 4456, Name: Apoint.exe,  CommandLine: "C:\Program Files\Apoint2K\Apoint.exe"
+===============
+ID: 5852, Name: ETDTouch.exe,  CommandLine: "C:\Windows\system32\ETDTouch.exe" 
+===============
+ID: 6084, Name: ctfmon.exe,  CommandLine: 
+===============
+ID: 5288, Name: ApMsgFwd.exe,  CommandLine: 
+===============
+ID: 6380, Name: sihost.exe,  CommandLine: sihost.exe
+===============
+ID: 6404, Name: svchost.exe,  CommandLine: C:\Windows\system32\svchost.exe -k BthAppGroup -p -s BluetoothUserService
+===============
+ID: 6424, Name: svchost.exe,  CommandLine: C:\Windows\system32\svchost.exe -k UnistackSvcGroup -s CDPUserSvc
+===============
+ID: 6484, Name: svchost.exe,  CommandLine: C:\Windows\system32\svchost.exe -k LocalSystemNetworkRestricted -p -s webthreatdefusersvc
+===============
+ID: 6604, Name: svchost.exe,  CommandLine: C:\Windows\system32\svchost.exe -k UnistackSvcGroup -s WpnUserService
+===============
+ID: 6824, Name: taskhostw.exe,  CommandLine: taskhostw.exe {222A245B-E637-4AE9-A93F-A59CA119A75E}
+===============
+ID: 3396, Name: igfxEM.exe,  CommandLine: "C:\Windows\System32\DriverStore\FileRepository\cui_dch.inf_amd64_f47cef52ac4d1535\igfxEM.exe"
+===============
+ID: 7588, Name: svchost.exe,  CommandLine: C:\Windows\system32\svchost.exe -k ClipboardSvcGroup -p -s cbdhsvc
+===============
+ID: 5208, Name: Widgets.exe,  CommandLine: "C:\Program Files\WindowsApps\MicrosoftWindows.Client.WebExperience_524.24900.130.0_x64__cw5n1h2txyewy\Dashboard\Widgets.exe" -ServerName:Microsoft.Windows.DashboardServer
+===============
+ID: 4564, Name: RuntimeBroker.exe,  CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 8276, Name: RuntimeBroker.exe,  CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 8348, Name: WidgetService.exe,  CommandLine: "C:\Program Files\WindowsApps\Microsoft.WidgetsPlatformRuntime_1.5.0.0_x64__8wekyb3d8bbwe\WidgetService\WidgetService.exe" -RegisterProcessAsComServer -Embedding
+===============
+ID: 8576, Name: svchost.exe,  CommandLine: C:\Windows\system32\svchost.exe -k UdkSvcGroup -s UdkUserSvc
+===============
+ID: 8780, Name: dllhost.exe,  CommandLine: C:\Windows\system32\DllHost.exe /Processid:{973D20D7-562D-44B9-B70B-5A0F49CCDF3F}
+===============
+ID: 7228, Name: LockApp.exe,  CommandLine: "C:\Windows\SystemApps\Microsoft.LockApp_cw5n1h2txyewy\LockApp.exe" -ServerName:WindowsDefaultLockScreen.AppX7y4nbzq37zn4ks9k7amqjywdat7d3j2z.mca
+===============
+ID: 9240, Name: RuntimeBroker.exe,  CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 9492, Name: svchost.exe,  CommandLine: C:\Windows\system32\svchost.exe -k LocalService -p -s NPSMSvc
+===============
+ID: 9880, Name: LocationNotificationWindows.exe,  CommandLine: "C:\Windows\System32\LocationNotificationWindows.exe"
+===============
+ID: 10272, Name: RadeonSoftware.exe,  CommandLine: "C:\Program Files\AMD\CNext\CNext\Radeonsoftware.exe" atlogon
+===============
+ID: 10640, Name: cncmd.exe,  CommandLine: "C:\Program Files\AMD\CNext\CNext\cncmd.exe" watch 10272
+===============
+ID: 10856, Name: AMDRSServ.exe,  CommandLine: 
+===============
+ID: 8148, Name: RAVBg64.exe,  CommandLine: "C:\Program Files\Realtek\Audio\HDA\RAVBg64.exe" /LENOVO_DOLBYDRAGON
+===============
+ID: 6836, Name: RAVBg64.exe,  CommandLine: "C:\Program Files\Realtek\Audio\HDA\RAVBg64.exe" /FORPCEE4
+===============
+ID: 9632, Name: amdow.exe,  CommandLine: 
+===============
+ID: 804, Name: RAVCpl64.exe,  CommandLine: "C:\Program Files\Realtek\Audio\HDA\RAVCpl64.exe" -s
+===============
+ID: 5544, Name: WsToastNotification.exe,  CommandLine: "C:\Users\arauj\AppData\Local\Wondershare\Wondershare NativePush\WsToastNotification.exe"
+===============
+ID: 5588, Name: conhost.exe,  CommandLine: \??\C:\Windows\system32\conhost.exe 0x4
+===============
+ID: 1412, Name: OneDrive.exe,  CommandLine: "C:\Users\arauj\AppData\Local\Microsoft\OneDrive\OneDrive.exe" /background
+===============
+ID: 6100, Name: svchost.exe,  CommandLine: C:\Windows\system32\svchost.exe -k UnistackSvcGroup
+===============
+ID: 8232, Name: Canva.exe,  CommandLine: C:\Users\arauj\AppData\Local\Programs\Canva\Canva.exe --type=crashpad-handler --user-data-dir=C:\Users\arauj\AppData\Roaming\Canva /prefetch:7 --no-rate-limit --monitor-self-annotation=ptype=crashpad-handler --database=C:\Users\arauj\AppData\Roaming\Canva\Crashpad\1.86.0 --url=https://f.a.k/e --annotation=_productName=Canva --annotation=_version=1.86.0 --annotation=plat=Win64 --annotation=prod=Electron --annotation=ver=26.6.9 --initial-client-data=0x484,0x488,0x48c,0x480,0x490,0x7ff66fcc8e38,0x7ff66fcc8e48,0x7ff66fcc8e58
+===============
+ID: 10032, Name: Canva.exe,  CommandLine: C:\Users\arauj\AppData\Local\Programs\Canva\Canva.exe C:\Users\arauj\AppData\Local\Programs\Canva\resources\app.asar\dist\availability_check_server_agent.js "{\"A\":[\"https://www.canva.com\",\"https://www.canva.cn\"],\"B\":24642}"
+===============
+ID: 3912, Name: utweb.exe,  CommandLine: "C:\Users\arauj\AppData\Roaming\uTorrent Web\utweb.exe" /MINIMIZED
+===============
+ID: 5472, Name: helper.exe,  CommandLine: helper/helper.exe 49872 -- ut_web/1.4.0.5825 hval/88f8bb96740def118f1070c94eee1e02
+===============
+ID: 6232, Name: msedgewebview2.exe,  CommandLine: "C:\Program Files (x86)\Microsoft\EdgeWebView\Application\129.0.2792.79\msedgewebview2.exe" --embedded-browser-webview=1 --webview-exe-name=Widgets.exe --webview-exe-version=524.24900.140.0 --user-data-dir="C:\Users\arauj\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView" --noerrdialogs --disk-cache-size=52428800 --edge-webview-is-background --lang=pt-PT --mojo-named-platform-channel-pipe=5208.8080.13811375477274007870 /pfhostedapp:8d934b4125d9d79db4ac53105f658e284c92c0b6
+===============
+ID: 5676, Name: msedgewebview2.exe,  CommandLine: "C:\Program Files (x86)\Microsoft\EdgeWebView\Application\129.0.2792.79\msedgewebview2.exe" --type=crashpad-handler --user-data-dir=C:\Users\arauj\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView /prefetch:4 /pfhostedapp:8d934b4125d9d79db4ac53105f658e284c92c0b6 --monitor-self-annotation=ptype=crashpad-handler --database=C:\Users\arauj\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Crashpad --metrics-dir=C:\Users\arauj\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView --annotation=IsOfficialBuild=1 --annotation=channel= --annotation=chromium-version=129.0.6668.90 "--annotation=exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\129.0.2792.79\msedgewebview2.exe" --annotation=plat=Win64 "--annotation=prod=Edge WebView2" --annotation=ver=129.0.2792.79 --initial-client-data=0x1a0,0x1a4,0x1a8,0x17c,0x1b0,0x7ffc7e9b8ee0,0x7ffc7e9b8eec,0x7ffc7e9b8ef8
+===============
+ID: 3848, Name: msedgewebview2.exe,  CommandLine: "C:\Program Files (x86)\Microsoft\EdgeWebView\Application\129.0.2792.79\msedgewebview2.exe" --type=gpu-process --string-annotations=is-enterprise-managed=no --noerrdialogs --user-data-dir="C:\Users\arauj\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView" --webview-exe-name=Widgets.exe --webview-exe-version=524.24900.140.0 --embedded-browser-webview=1 --gpu-preferences=UAAAAAAAAADgAAAMAAAAAAAAAAAAAAAAAABgAAEAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAA --field-trial-handle=1900,i,18202797769168278683,11399311379055017943,262144 --variations-seed-version --mojo-platform-channel-handle=1892 /prefetch:2 /pfhostedapp:8d934b4125d9d79db4ac53105f658e284c92c0b6
+===============
+ID: 2604, Name: msedgewebview2.exe,  CommandLine: "C:\Program Files (x86)\Microsoft\EdgeWebView\Application\129.0.2792.79\msedgewebview2.exe" --type=utility --utility-sub-type=network.mojom.NetworkService --lang=pt-PT --service-sandbox-type=none --string-annotations=is-enterprise-managed=no --noerrdialogs --user-data-dir="C:\Users\arauj\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView" --webview-exe-name=Widgets.exe --webview-exe-version=524.24900.140.0 --embedded-browser-webview=1 --field-trial-handle=1816,i,18202797769168278683,11399311379055017943,262144 --variations-seed-version --mojo-platform-channel-handle=2168 /prefetch:11 /pfhostedapp:8d934b4125d9d79db4ac53105f658e284c92c0b6
+===============
+ID: 4064, Name: msedgewebview2.exe,  CommandLine: "C:\Program Files (x86)\Microsoft\EdgeWebView\Application\129.0.2792.79\msedgewebview2.exe" --type=utility --utility-sub-type=storage.mojom.StorageService --lang=pt-PT --service-sandbox-type=service --string-annotations=is-enterprise-managed=no --noerrdialogs --user-data-dir="C:\Users\arauj\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView" --webview-exe-name=Widgets.exe --webview-exe-version=524.24900.140.0 --embedded-browser-webview=1 --field-trial-handle=2292,i,18202797769168278683,11399311379055017943,262144 --variations-seed-version --mojo-platform-channel-handle=2312 /prefetch:13 /pfhostedapp:8d934b4125d9d79db4ac53105f658e284c92c0b6
+===============
+ID: 1848, Name: msedgewebview2.exe,  CommandLine: "C:\Program Files (x86)\Microsoft\EdgeWebView\Application\129.0.2792.79\msedgewebview2.exe" --type=renderer --string-annotations=is-enterprise-managed=no --noerrdialogs --user-data-dir="C:\Users\arauj\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView" --webview-exe-name=Widgets.exe --webview-exe-version=524.24900.140.0 --embedded-browser-webview=1 --video-capture-use-gpu-memory-buffer --lang=pt-PT --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=5 --js-flags="--harmony-weak-refs-with-cleanup-some --expose-gc --ms-user-locale=pt_AO" --time-ticks-at-unix-epoch=-1728502511131421 --launch-time-ticks=204250022 --field-trial-handle=3480,i,18202797769168278683,11399311379055017943,262144 --variations-seed-version --mojo-platform-channel-handle=3484 /pfhostedapp:8d934b4125d9d79db4ac53105f658e284c92c0b6 /prefetch:1
+===============
+ID: 6268, Name: uTorrent.exe,  CommandLine: "C:\Users\arauj\AppData\Roaming\utorrent\uTorrent.exe"  /MINIMIZED
+===============
+ID: 9004, Name: msedgewebview2.exe,  CommandLine: "C:\Program Files (x86)\Microsoft\EdgeWebView\Application\129.0.2792.79\msedgewebview2.exe" --type=utility --utility-sub-type=audio.mojom.AudioService --lang=pt-PT --service-sandbox-type=audio --video-capture-use-gpu-memory-buffer --string-annotations=is-enterprise-managed=no --noerrdialogs --user-data-dir="C:\Users\arauj\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView" --webview-exe-name=Widgets.exe --webview-exe-version=524.24900.140.0 --embedded-browser-webview=1 --field-trial-handle=5228,i,18202797769168278683,11399311379055017943,262144 --variations-seed-version --mojo-platform-channel-handle=5208 /prefetch:12 /pfhostedapp:8d934b4125d9d79db4ac53105f658e284c92c0b6
+===============
+ID: 8388, Name: utorrentie.exe,  CommandLine: "C:\Users\arauj\AppData\Roaming\utorrent\updates\3.6.0_47142\utorrentie.exe" uTorrent_6268_00C41CD0_773953229 µTorrent4823DF041B09 uTorrent ce unp
+===============
+ID: 8800, Name: utorrentie.exe,  CommandLine: "C:\Users\arauj\AppData\Roaming\utorrent\updates\3.6.0_47142\utorrentie.exe" uTorrent_6268_046857E0_1180079568 µTorrent4823DF041B09 uTorrent ce unp
+===============
+ID: 10744, Name: msedgewebview2.exe,  CommandLine: "C:\Program Files (x86)\Microsoft\EdgeWebView\Application\129.0.2792.79\msedgewebview2.exe" --embedded-browser-webview=1 --webview-exe-name=utorrentie.exe --user-data-dir="C:\Users\arauj\AppData\LocalLow\uTorrent.WebView2\EBWebView" --noerrdialogs --embedded-browser-webview-dpi-awareness=0 --disable-features=msEnhancedTrackingPreventionEnabled --mojo-named-platform-channel-pipe=8800.9220.13059892613933637697 /pfhostedapp:3dab96ea019349a2f837676422dce4ba320d3414
+===============
+ID: 10216, Name: msedgewebview2.exe,  CommandLine: "C:\Program Files (x86)\Microsoft\EdgeWebView\Application\129.0.2792.79\msedgewebview2.exe" --type=crashpad-handler --user-data-dir=C:\Users\arauj\AppData\LocalLow\uTorrent.WebView2\EBWebView /prefetch:4 /pfhostedapp:3dab96ea019349a2f837676422dce4ba320d3414 --monitor-self-annotation=ptype=crashpad-handler --database=C:\Users\arauj\AppData\LocalLow\uTorrent.WebView2\EBWebView\Crashpad --metrics-dir=C:\Users\arauj\AppData\LocalLow\uTorrent.WebView2\EBWebView --annotation=IsOfficialBuild=1 --annotation=channel= --annotation=chromium-version=129.0.6668.90 "--annotation=exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\129.0.2792.79\msedgewebview2.exe" --annotation=plat=Win64 "--annotation=prod=Edge WebView2" --annotation=ver=129.0.2792.79 --initial-client-data=0x190,0x194,0x198,0xa0,0x1a0,0x7ffc7e9b8ee0,0x7ffc7e9b8eec,0x7ffc7e9b8ef8
+===============
+ID: 1664, Name: msedgewebview2.exe,  CommandLine: "C:\Program Files (x86)\Microsoft\EdgeWebView\Application\129.0.2792.79\msedgewebview2.exe" --type=gpu-process --string-annotations=is-enterprise-managed=no --noerrdialogs --user-data-dir="C:\Users\arauj\AppData\LocalLow\uTorrent.WebView2\EBWebView" --webview-exe-name=utorrentie.exe --embedded-browser-webview=1 --embedded-browser-webview-dpi-awareness=0 --gpu-preferences=UAAAAAAAAADgAAAMAAAAAAAAAAAAAAAAAABgAAEAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAA --field-trial-handle=1780,i,2729667784812753757,4483458044068015442,262144 --disable-features=msEnhancedTrackingPreventionEnabled --variations-seed-version --mojo-platform-channel-handle=1756 /prefetch:2 /pfhostedapp:3dab96ea019349a2f837676422dce4ba320d3414
+===============
+ID: 9136, Name: msedgewebview2.exe,  CommandLine: "C:\Program Files (x86)\Microsoft\EdgeWebView\Application\129.0.2792.79\msedgewebview2.exe" --type=utility --utility-sub-type=network.mojom.NetworkService --lang=pt-PT --service-sandbox-type=none --string-annotations=is-enterprise-managed=no --noerrdialogs --user-data-dir="C:\Users\arauj\AppData\LocalLow\uTorrent.WebView2\EBWebView" --webview-exe-name=utorrentie.exe --embedded-browser-webview=1 --embedded-browser-webview-dpi-awareness=0 --field-trial-handle=1800,i,2729667784812753757,4483458044068015442,262144 --disable-features=msEnhancedTrackingPreventionEnabled --variations-seed-version --mojo-platform-channel-handle=2072 /prefetch:11 /pfhostedapp:3dab96ea019349a2f837676422dce4ba320d3414
+===============
+ID: 9920, Name: msedgewebview2.exe,  CommandLine: "C:\Program Files (x86)\Microsoft\EdgeWebView\Application\129.0.2792.79\msedgewebview2.exe" --type=utility --utility-sub-type=storage.mojom.StorageService --lang=pt-PT --service-sandbox-type=service --string-annotations=is-enterprise-managed=no --noerrdialogs --user-data-dir="C:\Users\arauj\AppData\LocalLow\uTorrent.WebView2\EBWebView" --webview-exe-name=utorrentie.exe --embedded-browser-webview=1 --embedded-browser-webview-dpi-awareness=0 --field-trial-handle=2228,i,2729667784812753757,4483458044068015442,262144 --disable-features=msEnhancedTrackingPreventionEnabled --variations-seed-version --mojo-platform-channel-handle=2240 /prefetch:13 /pfhostedapp:3dab96ea019349a2f837676422dce4ba320d3414
+===============
+ID: 9712, Name: CrossDeviceService.exe,  CommandLine: "C:\Program Files\WindowsApps\MicrosoftWindows.CrossDevice_1.24082.53.0_x64__cw5n1h2txyewy\CrossDeviceService.exe" 
+===============
+ID: 8840, Name: RuntimeBroker.exe,  CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 5792, Name: Spotify.exe,  CommandLine: Spotify.exe --autostart
+===============
+ID: 11260, Name: Spotify.exe,  CommandLine: "C:\Program Files\WindowsApps\SpotifyAB.SpotifyMusic_1.247.366.0_x64__zpdnekdrzrea0\Spotify.exe" --type=crashpad-handler /prefetch:4 --max-uploads=5 --max-db-size=20 --max-db-age=5 --monitor-self-annotation=ptype=crashpad-handler "--database=C:\Users\arauj\AppData\Local\SpotifyAppX\User Data\Crashpad" "--metrics-dir=C:\Users\arauj\AppData\Local\SpotifyAppX\User Data" --url=https://crashdump.spotify.com:443/ --annotation=platform=win64 --annotation=product=spotify --annotation=version=1.2.47.366 --initial-client-data=0x490,0x494,0x498,0x408,0x49c,0x7ffc9dd40ea8,0x7ffc9dd40eb4,0x7ffc9dd40ec0
+===============
+ID: 7212, Name: Spotify.exe,  CommandLine: "C:\Program Files\WindowsApps\SpotifyAB.SpotifyMusic_1.247.366.0_x64__zpdnekdrzrea0\Spotify.exe" --type=gpu-process --start-stack-profiler --user-data-dir="C:\Users\arauj\AppData\Local\Packages\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\LocalCache\Spotify" --log-severity=disable --user-agent-product="Chrome/128.0.6613.120 Spotify/1.2.47.366" --gpu-preferences=UAAAAAAAAADgAAAMAAAAAAAAAAAAAAAAAABgAAEAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAA --field-trial-handle=2192,i,2379116187497505776,14719867963650150265,262144 --disable-features=BackForwardCache,PartitionAllocDanglingPtr,PartitionAllocUnretainedDanglingPtr --variations-seed-version --enable-logging=handle --log-file=2204 --mojo-platform-channel-handle=2196 /prefetch:2
+===============
+ID: 5648, Name: Spotify.exe,  CommandLine: "C:\Program Files\WindowsApps\SpotifyAB.SpotifyMusic_1.247.366.0_x64__zpdnekdrzrea0\Spotify.exe" --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --start-stack-profiler --user-data-dir="C:\Users\arauj\AppData\Local\Packages\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\LocalCache\Spotify" --log-severity=disable --user-agent-product="Chrome/128.0.6613.120 Spotify/1.2.47.366" --field-trial-handle=2180,i,2379116187497505776,14719867963650150265,262144 --disable-features=BackForwardCache,PartitionAllocDanglingPtr,PartitionAllocUnretainedDanglingPtr --variations-seed-version --enable-logging=handle --log-file=2516 --mojo-platform-channel-handle=2416 /prefetch:11
+===============
+ID: 8556, Name: Spotify.exe,  CommandLine: "C:\Program Files\WindowsApps\SpotifyAB.SpotifyMusic_1.247.366.0_x64__zpdnekdrzrea0\Spotify.exe" --type=utility --utility-sub-type=storage.mojom.StorageService --lang=en-US --service-sandbox-type=service --user-data-dir="C:\Users\arauj\AppData\Local\Packages\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\LocalCache\Spotify" --log-severity=disable --user-agent-product="Chrome/128.0.6613.120 Spotify/1.2.47.366" --field-trial-handle=2220,i,2379116187497505776,14719867963650150265,262144 --disable-features=BackForwardCache,PartitionAllocDanglingPtr,PartitionAllocUnretainedDanglingPtr --variations-seed-version --enable-logging=handle --log-file=2568 --mojo-platform-channel-handle=2532 /prefetch:13
+===============
+ID: 6976, Name: backgroundTaskHost.exe,  CommandLine: "C:\Windows\system32\backgroundTaskHost.exe" -ServerName:Spotify.AppXtdk8mnjd568eshy3qjgb1wew6q74vv2f.mca
+===============
+ID: 7968, Name: RuntimeBroker.exe,  CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 10796, Name: Spotify.exe,  CommandLine: "C:\Program Files\WindowsApps\SpotifyAB.SpotifyMusic_1.247.366.0_x64__zpdnekdrzrea0\Spotify.exe" --type=renderer --user-data-dir="C:\Users\arauj\AppData\Local\Packages\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\LocalCache\Spotify" --log-severity=disable --user-agent-product="Chrome/128.0.6613.120 Spotify/1.2.47.366" --autoplay-policy=no-user-gesture-required --video-capture-use-gpu-memory-buffer --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=6 --time-ticks-at-unix-epoch=-1728502511126464 --launch-time-ticks=272277538 --field-trial-handle=5252,i,2379116187497505776,14719867963650150265,262144 --disable-features=BackForwardCache,PartitionAllocDanglingPtr,PartitionAllocUnretainedDanglingPtr --variations-seed-version --enable-logging=handle --log-file=5512 --mojo-platform-channel-handle=5508 /prefetch:1
+===============
+ID: 11436, Name: Spotify.exe,  CommandLine: "C:\Program Files\WindowsApps\SpotifyAB.SpotifyMusic_1.247.366.0_x64__zpdnekdrzrea0\Spotify.exe" --type=utility --utility-sub-type=audio.mojom.AudioService --lang=en-US --service-sandbox-type=audio --video-capture-use-gpu-memory-buffer --user-data-dir="C:\Users\arauj\AppData\Local\Packages\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\LocalCache\Spotify" --log-severity=disable --user-agent-product="Chrome/128.0.6613.120 Spotify/1.2.47.366" --field-trial-handle=5796,i,2379116187497505776,14719867963650150265,262144 --disable-features=BackForwardCache,PartitionAllocDanglingPtr,PartitionAllocUnretainedDanglingPtr --variations-seed-version --enable-logging=handle --log-file=6060 --mojo-platform-channel-handle=4760 /prefetch:12
+===============
+ID: 11544, Name: Spotify.exe,  CommandLine: "C:\Program Files\WindowsApps\SpotifyAB.SpotifyMusic_1.247.366.0_x64__zpdnekdrzrea0\Spotify.exe" --type=utility --utility-sub-type=media.mojom.CdmServiceBroker --lang=en-US --service-sandbox-type=cdm --video-capture-use-gpu-memory-buffer --user-data-dir="C:\Users\arauj\AppData\Local\Packages\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\LocalCache\Spotify" --log-severity=disable --user-agent-product="Chrome/128.0.6613.120 Spotify/1.2.47.366" --field-trial-handle=6268,i,2379116187497505776,14719867963650150265,262144 --disable-features=BackForwardCache,PartitionAllocDanglingPtr,PartitionAllocUnretainedDanglingPtr --variations-seed-version --enable-logging=handle --log-file=6292 --mojo-platform-channel-handle=6296 /prefetch:14
+===============
+ID: 12188, Name: jusched.exe,  CommandLine: "C:\Program Files (x86)\Common Files\Java\Java Update\jusched.exe" 
+===============
+ID: 7280, Name: RuntimeBroker.exe,  CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 4240, Name: CCXProcess.exe,  CommandLine: "C:\Program Files\Adobe\Adobe Creative Cloud Experience\CCXProcess.exe"
+===============
+ID: 9664, Name: node.exe,  CommandLine: "C:\Program Files\Adobe\Adobe Creative Cloud Experience\libs\node.exe" "C:\Program Files\Adobe\Adobe Creative Cloud Experience\js\main.js"
+===============
+ID: 6572, Name: conhost.exe,  CommandLine: \??\C:\Windows\system32\conhost.exe 0x4
+===============
+ID: 12184, Name: AdobeIPCBroker.exe,  CommandLine: "C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\IPCBox\AdobeIPCBroker.exe" "-launchedbyvulcan-9664 C:\Program Files\Adobe\Adobe Creative Cloud Experience\libs\node.exe"
+===============
+ID: 5236, Name: AMDRSSrcExt.exe,  CommandLine: "C:\Program Files\AMD\CNext\CNext\AMDRSSrcExt.exe" fb28e830-7c29-4591-b2df-4e16275fa0d9 SOFTWARE\AMD\DVR\Overlays
+===============
+ID: 4952, Name: WhatsApp.exe,  CommandLine: "C:\Program Files\WindowsApps\5319275A.51895FA4EA97F_2.2440.8.0_x64__cv1g1gvanyjgm\WhatsApp.exe" -ServerName:App.AppXayq3zbha1pm79px99zk524s27t4sm2dm.mca
+===============
+ID: 12980, Name: RuntimeBroker.exe,  CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 11756, Name: WSHelper.exe,  CommandLine: "C:\Program Files (x86)\Common Files\Wondershare\Wondershare Helper Compact\WSHelper.exe" 
+===============
+ID: 5660, Name: jucheck.exe,  CommandLine: "C:\Program Files (x86)\Common Files\Java\Java Update\jucheck.exe" -auto -critical
+===============
+ID: 12420, Name: Video.UI.exe,  CommandLine: "C:\Program Files\WindowsApps\Microsoft.ZuneVideo_10.22091.10061.0_x64__8wekyb3d8bbwe\Video.UI.exe" -ServerName:Microsoft.ZuneVideo.AppX758ya5sqdjd98rx6z7g95nw6jy7bqx9y.mca
+===============
+ID: 9324, Name: RuntimeBroker.exe,  CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 6972, Name: Photoshop.exe,  CommandLine: "C:\Program Files\Adobe\Adobe Photoshop 2020\Photoshop.exe" 
+===============
+ID: 3484, Name: Adobe Spaces Helper.exe,  CommandLine: "C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Spaces\Adobe Spaces Helper.exe" --type=gpu-process --field-trial-handle=13704,11998190143789397809,3552085051505583074,131072 --no-sandbox --disable-direct-composition --locales-dir-path="C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Spaces\Resources\locales\\" --log-file="C:\Users\arauj\AppData\Roaming\Adobe\Adobe Photoshop 2020\Logs\debug.log" --resources-dir-path="C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Spaces\Resources\\" --lang=pt-BR --gpu-preferences=KAAAAAAAAACAAwCAAQAAAAAAAAAAAGAAAAAAAAAAAAAIAAAAAAAAACgAAAAEAAAAIAAAAAAAAAAoAAAAAAAAADAAAAAAAAAAOAAAAAAAAAAQAAAAAAAAAAAAAAAFAAAAEAAAAAAAAAAAAAAABgAAABAAAAAAAAAAAQAAAAUAAAAQAAAAAAAAAAEAAAAGAAAA --disable-in-process-stack-traces --service-request-channel-token=1739223965526372023 --mojo-platform-channel-handle=13748 /prefetch:2
+===============
+ID: 13840, Name: Adobe Spaces Helper.exe,  CommandLine: "C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Spaces\Adobe Spaces Helper.exe" --type=renderer --disable-in-process-stack-traces --no-sandbox --autoplay-policy=no-user-gesture-required --file-url-path-alias="/gen=C:\Program Files\Adobe\Adobe Photoshop 2020\gen" --touch-events=disabled --field-trial-handle=13704,11998190143789397809,3552085051505583074,131072 --service-pipe-token=11352774934807140555 --lang=pt-BR --locales-dir-path="C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Spaces\Resources\locales\\" --log-file="C:\Users\arauj\AppData\Roaming\Adobe\Adobe Photoshop 2020\Logs\debug.log" --resources-dir-path="C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Spaces\Resources\\" --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=11352774934807140555 --renderer-client-id=3 --mojo-platform-channel-handle=14084 /prefetch:1
+===============
+ID: 7372, Name: Adobe Spaces Helper.exe,  CommandLine: "C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Spaces\Adobe Spaces Helper.exe" --type=renderer --disable-in-process-stack-traces --no-sandbox --autoplay-policy=no-user-gesture-required --file-url-path-alias="/gen=C:\Program Files\Adobe\Adobe Photoshop 2020\gen" --touch-events=disabled --field-trial-handle=13704,11998190143789397809,3552085051505583074,131072 --service-pipe-token=8497024047897670790 --lang=pt-BR --locales-dir-path="C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Spaces\Resources\locales\\" --log-file="C:\Users\arauj\AppData\Roaming\Adobe\Adobe Photoshop 2020\Logs\debug.log" --resources-dir-path="C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Spaces\Resources\\" --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=8497024047897670790 --renderer-client-id=4 --mojo-platform-channel-handle=15936 /prefetch:1
+===============
+ID: 14048, Name: CEPHtmlEngine.exe,  CommandLine: "C:\Program Files\Adobe\Adobe Photoshop 2020\Required\CEP\cephtmlengine\CEPHtmlEngine.exe" "C:\Program Files\Adobe\Adobe Photoshop 2020\Required\CEP\extensions\com.adobe.DesignLibraryPanel.html\index.html" aca26fe9-d785-45b5-840f-3e78e9c6c9fe 6972 PHXS 21.1.1 com.adobe.DesignLibraries.angular 1 "C:\Program Files\Adobe\Adobe Photoshop 2020\Required\CEP\extensions\com.adobe.DesignLibraryPanel.html" "Photoshop" 1 WyItLWhpZ2gtZHBpLXN1cHBvcnQ9MSIsIi0tZW5hYmxlLW5vZGVqcyIsIi0tbWl4ZWQtY29udGV4dCIsIi0tZGlzYWJsZS1hY2NlbGVyYXRlZC12aWRlby1kZWNvZGUiLCItLWRpc2FibGUtdGhyZWFkZWQtc2Nyb2xsaW5nIiwiLS1kaXNhYmxlLXBpbmNoIl0= pt_BR 4283650899 100 0
+===============
+ID: 12716, Name: CEPHtmlEngine.exe,  CommandLine: "C:\Program Files\Adobe\Adobe Photoshop 2020\Required\CEP\cephtmlengine\CEPHtmlEngine.exe" --type=gpu-process --disable-accelerated-video-decode --no-sandbox --lang=pt_BR --log-file="C:\Users\arauj\AppData\Local\Temp\CEPHtmlEngine9-PHXS-21.1.1-com.adobe.DesignLibraries.angular.log" --log-severity=error --params_ppid=PHXS --params_serverid=6972 --disable-d3d11 --supports-dual-gpus=false --gpu-driver-bug-workarounds=9,12,19,23,24,27,49,84 --disable-gl-extensions="GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent" --gpu-vendor-id=0x1002 --gpu-device-id=0x6900 --gpu-driver-vendor="Advanced Micro Devices, Inc." --gpu-driver-version=27.20.20913.2000 --gpu-driver-date=8-2-2022 --gpu-secondary-vendor-ids=0x8086 --gpu-secondary-device-ids=0x5916 --lang=pt_BR --log-file="C:\Users\arauj\AppData\Local\Temp\CEPHtmlEngine9-PHXS-21.1.1-com.adobe.DesignLibraries.angular.log" --log-severity=error --params_ppid=PHXS --params_serverid=6972 --service-request-channel-token=539CD682DDB0BC9A99EF13D76B8CDA64 --mojo-platform-channel-handle=1620 /prefetch:2
+===============
+ID: 7896, Name: CEPHtmlEngine.exe,  CommandLine: "C:\Program Files\Adobe\Adobe Photoshop 2020\Required\CEP\cephtmlengine\CEPHtmlEngine.exe" --type=renderer --disable-accelerated-video-decode --disable-pinch --disable-threaded-scrolling --no-sandbox --enable-nodejs --mixed-context --service-pipe-token=98A04C1AD9466F25C83B70A46A79A756 --enable-nodejs --mixed-context --lang=en-US --lang=pt_BR --log-file="C:\Users\arauj\AppData\Local\Temp\CEPHtmlEngine9-PHXS-21.1.1-com.adobe.DesignLibraries.angular.log" --log-severity=error --params_ppid=PHXS --params_ppversion=21.1.1 --params_extensionid=com.adobe.DesignLibraries.angular --params_loglevel=1 --params_serverid=6972 --params_extensionuuid=aca26fe9-d785-45b5-840f-3e78e9c6c9fe --params_windowid=71046 --node-module-dir="C:\Program Files\Adobe\Adobe Photoshop 2020\Required\CEP\extensions\com.adobe.DesignLibraryPanel.html" --params_commandline=WyItLWhpZ2gtZHBpLXN1cHBvcnQ9MSIsIi0tZW5hYmxlLW5vZGVqcyIsIi0tbWl4ZWQtY29udGV4dCIsIi0tZGlzYWJsZS1hY2NlbGVyYXRlZC12aWRlby1kZWNvZGUiLCItLWRpc2FibGUtdGhyZWFkZWQtc2Nyb2xsaW5nIiwiLS1kaXNhYmxlLXBpbmNoIl0= --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;0,16,3553;0,17,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;1,16,3553;1,17,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;2,16,3553;2,17,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553;3,16,3553;3,17,3553;4,0,3553;4,1,3553;4,2,3553;4,3,3553;4,4,3553;4,5,3553;4,6,3553;4,7,3553;4,8,3553;4,9,3553;4,10,3553;4,11,3553;4,12,3553;4,13,3553;4,14,3553;4,15,3553;4,16,3553;4,17,3553 --enable-gpu-async-worker-context --service-request-channel-token=98A04C1AD9466F25C83B70A46A79A756 --renderer-client-id=3 --mojo-platform-channel-handle=2088 /prefetch:1
+===============
+ID: 7516, Name: dynamiclinkmanager.exe,  CommandLine: "C:\Program Files\Adobe\Adobe Photoshop 2020\Required\DynamicLinkMediaServer\dynamiclinkmanager.exe"
+===============
+ID: 7428, Name: UserOOBEBroker.exe,  CommandLine: C:\Windows\System32\oobe\UserOOBEBroker.exe -Embedding
+===============
+ID: 7836, Name: Adobe Spaces Helper.exe,  CommandLine: "C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Spaces\Adobe Spaces Helper.exe" --type=renderer --disable-in-process-stack-traces --no-sandbox --autoplay-policy=no-user-gesture-required --file-url-path-alias="/gen=C:\Program Files\Adobe\Adobe Photoshop 2020\gen" --touch-events=disabled --field-trial-handle=13704,11998190143789397809,3552085051505583074,131072 --service-pipe-token=8288852831230712704 --lang=pt-BR --locales-dir-path="C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Spaces\Resources\locales\\" --log-file="C:\Users\arauj\AppData\Roaming\Adobe\Adobe Photoshop 2020\Logs\debug.log" --resources-dir-path="C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Spaces\Resources\\" --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=8288852831230712704 --renderer-client-id=6 --mojo-platform-channel-handle=48160 /prefetch:1
+===============
+ID: 8152, Name: dllhost.exe,  CommandLine: C:\Windows\system32\DllHost.exe /Processid:{7EAD5C10-8B3F-11E6-AE22-56B6B6499611}
+===============
+ID: 15852, Name: ApplicationFrameHost.exe,  CommandLine: C:\Windows\system32\ApplicationFrameHost.exe -Embedding
+===============
+ID: 3816, Name: msedgewebview2.exe,  CommandLine: "C:\Program Files (x86)\Microsoft\EdgeWebView\Application\129.0.2792.79\msedgewebview2.exe" --type=renderer --string-annotations=is-enterprise-managed=no --noerrdialogs --user-data-dir="C:\Users\arauj\AppData\LocalLow\uTorrent.WebView2\EBWebView" --webview-exe-name=utorrentie.exe --embedded-browser-webview=1 --embedded-browser-webview-dpi-awareness=0 --video-capture-use-gpu-memory-buffer --lang=pt-PT --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=58 --js-flags="--harmony-weak-refs-with-cleanup-some --expose-gc --ms-user-locale=pt_AO" --time-ticks-at-unix-epoch=-1728502511134605 --launch-time-ticks=45014726156 --field-trial-handle=3724,i,2729667784812753757,4483458044068015442,262144 --disable-features=msEnhancedTrackingPreventionEnabled --variations-seed-version --mojo-platform-channel-handle=5588 /pfhostedapp:3dab96ea019349a2f837676422dce4ba320d3414 /prefetch:1
+===============
+ID: 15648, Name: explorer.exe,  CommandLine: "C:\Windows\explorer.exe" /LOADSAVEDWINDOWS
+===============
+ID: 15060, Name: StartMenuExperienceHost.exe,  CommandLine: "C:\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe" -ServerName:App.AppXywbrabmsek0gm3tkwpr5kwzbs55tkqay.mca
+===============
+ID: 15672, Name: SearchHost.exe,  CommandLine: "C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\SearchHost.exe" -ServerName:CortanaUI.AppXstmwaab17q5s3y22tp6apqz7a45vwv65.mca
+===============
+ID: 14468, Name: ShellExperienceHost.exe,  CommandLine: "C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe" -ServerName:App.AppXtk181tbxbce2qsex02s8tw7hfxa9xb3t.mca
+===============
+ID: 9828, Name: TextInputHost.exe,  CommandLine: "C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\TextInputHost.exe" -ServerName:InputApp.AppXk0k6mrh4r2q0ct33a9wgbez0x7v9cz5y.mca
+===============
+ID: 3104, Name: FileCoAuth.exe,  CommandLine: "C:\Users\arauj\AppData\Local\Microsoft\OneDrive\24.181.0908.0001\FileCoAuth.exe" -Embedding
+===============
+ID: 16036, Name: DataExchangeHost.exe,  CommandLine: C:\Windows\System32\DataExchangeHost.exe -Embedding
+===============
+ID: 11844, Name: WhatsApp.exe,  CommandLine: "C:\Program Files\WindowsApps\5319275A.WhatsAppDesktop_2.2439.7.0_x64__cv1g1gvanyjgm\WhatsApp.exe" -ServerName:App.AppXkf4yh0averk473g9chjmra34tgccdh3d.mca
+===============
+ID: 6924, Name: RuntimeBroker.exe,  CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 14948, Name: backgroundTaskHost.exe,  CommandLine: "C:\Windows\system32\backgroundTaskHost.exe" -ServerName:App.AppXnme9zjyebb2xnyygh6q9ev6p5d234br2.mca
+===============
+ID: 13368, Name: backgroundTaskHost.exe,  CommandLine: "C:\Windows\system32\backgroundTaskHost.exe" -ServerName:Global.DesktopSpotlight.AppXz2j21w56bgxkgsjhtn7zkjsepq96erz2.mca
+===============
+ID: 15272, Name: backgroundTaskHost.exe,  CommandLine: "C:\Windows\system32\backgroundTaskHost.exe" -ServerName:App.AppXmtcan0h2tfbfy7k9kn8hbxb6dmzz1zh0.mca
+===============
+ID: 15476, Name: HxTsr.exe,  CommandLine: "C:\Program Files\WindowsApps\microsoft.windowscommunicationsapps_16005.14326.22062.0_x64__8wekyb3d8bbwe\HxTsr.exe" -ServerName:Hx.IPC.Server
+===============
+ID: 12344, Name: RuntimeBroker.exe,  CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 9896, Name: backgroundTaskHost.exe,  CommandLine: "C:\Windows\system32\backgroundTaskHost.exe" -ServerName:Global.IrisService.AppXwt29n3t7x7q6fgyrrbbqxwzkqjfjaw4y.mca
+===============
+ID: 15524, Name: backgroundTaskHost.exe,  CommandLine: "C:\Windows\system32\backgroundTaskHost.exe" -ServerName:WebExperienceHost.AppXt2rk6m02ana976jna04hdq35jfnzy7f7.mca
+===============
+ID: 16040, Name: backgroundTaskHost.exe,  CommandLine: "C:\Windows\system32\backgroundTaskHost.exe" -ServerName:App.AppXe9cvj1thv1hmcw0cs98xm3r97tyzy2xs.mca
+===============
+ID: 18732, Name: msedgewebview2.exe,  CommandLine: "C:\Program Files (x86)\Microsoft\EdgeWebView\Application\129.0.2792.79\msedgewebview2.exe" --type=renderer --string-annotations=is-enterprise-managed=no --noerrdialogs --user-data-dir="C:\Users\arauj\AppData\LocalLow\uTorrent.WebView2\EBWebView" --webview-exe-name=utorrentie.exe --embedded-browser-webview=1 --embedded-browser-webview-dpi-awareness=0 --video-capture-use-gpu-memory-buffer --lang=pt-PT --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=62 --js-flags="--harmony-weak-refs-with-cleanup-some --expose-gc --ms-user-locale=pt_AO" --time-ticks-at-unix-epoch=-1728502511134605 --launch-time-ticks=81621754880 --field-trial-handle=4040,i,2729667784812753757,4483458044068015442,262144 --disable-features=msEnhancedTrackingPreventionEnabled --variations-seed-version --mojo-platform-channel-handle=4612 /pfhostedapp:3dab96ea019349a2f837676422dce4ba320d3414 /prefetch:1
+===============
+ID: 8056, Name: RuntimeBroker.exe,  CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 20172, Name: backgroundTaskHost.exe,  CommandLine: "C:\Windows\system32\backgroundTaskHost.exe" -ServerName:App.AppXfkd8mejksk4ancwf4vtyhmkvtzn1jcbs.mca
+===============
+ID: 19988, Name: backgroundTaskHost.exe,  CommandLine: "C:\Windows\system32\backgroundTaskHost.exe" -ServerName:Global.RulesEngine.AppXgphnekvm0vv49drvfehh4b6kyf6ckafp.mca
+===============
+ID: 19432, Name: backgroundTaskHost.exe,  CommandLine: "C:\Windows\system32\backgroundTaskHost.exe" -ServerName:Global.Accounts.AppXqe94epy97qwa6w3j6w132e8zvcs117nd.mca
+===============
+ID: 15260, Name: skotes.exe,  CommandLine: "C:\Users\arauj\AppData\Local\Temp\abc3bc1985\skotes.exe" 
+===============
+ID: 5028, Name: 5bb00e736d.exe,  CommandLine: "C:\Users\arauj\AppData\Local\Temp\1000332001\5bb00e736d.exe" 
+===============
+ID: 8452, Name: skotes.exe,  CommandLine: "C:\Users\arauj\AppData\Local\Temp\abc3bc1985\skotes.exe"
+===============
+ID: 8812, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --profile-directory="Profile 4"
+===============
+ID: 20048, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --string-annotations=is-enterprise-managed=no --no-subproc-heap-profiling --video-capture-use-gpu-memory-buffer --lang=pt-BR --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=6 --time-ticks-at-unix-epoch=-1728502511135080 --launch-time-ticks=94097564203 --field-trial-handle=3396,i,5722145221732086336,17287615529498006030,262144 --variations-seed-version=20241010-050112.459000 --mojo-platform-channel-handle=3412 /prefetch:1
+===============
+ID: 12012, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --string-annotations=is-enterprise-managed=no --no-subproc-heap-profiling --video-capture-use-gpu-memory-buffer --lang=pt-BR --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=5 --time-ticks-at-unix-epoch=-1728502511135080 --launch-time-ticks=94097696603 --field-trial-handle=3564,i,5722145221732086336,17287615529498006030,262144 --variations-seed-version=20241010-050112.459000 --mojo-platform-channel-handle=3548 /prefetch:1
+===============
+ID: 9628, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --string-annotations=is-enterprise-managed=no --no-subproc-heap-profiling --video-capture-use-gpu-memory-buffer --lang=pt-BR --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=11 --time-ticks-at-unix-epoch=-1728502511135080 --launch-time-ticks=94134607141 --field-trial-handle=4912,i,5722145221732086336,17287615529498006030,262144 --variations-seed-version=20241010-050112.459000 --mojo-platform-channel-handle=4976 /prefetch:1
+===============
+ID: 13676, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=utility --utility-sub-type=network.mojom.NetworkService --lang=pt-BR --service-sandbox-type=none --video-capture-use-gpu-memory-buffer --string-annotations=is-enterprise-managed=no --no-subproc-heap-profiling --field-trial-handle=4560,i,5722145221732086336,17287615529498006030,262144 --variations-seed-version=20241010-050112.459000 --mojo-platform-channel-handle=4200 /prefetch:3
+===============
+ID: 3236, Name: cmd.exe,  CommandLine: "C:\Windows\system32\cmd.exe" /c start "" "C:\Users\araujJJDHIDBFBF.exe"
+===============
+ID: 17792, Name: conhost.exe,  CommandLine: \??\C:\Windows\system32\conhost.exe 0x4
+===============
+ID: 4512, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --string-annotations=is-enterprise-managed=no --extension-process --no-subproc-heap-profiling --video-capture-use-gpu-memory-buffer --lang=pt-BR --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=19 --time-ticks-at-unix-epoch=-1728502511135080 --launch-time-ticks=94213514241 --field-trial-handle=6360,i,5722145221732086336,17287615529498006030,262144 --variations-seed-version=20241010-050112.459000 --mojo-platform-channel-handle=6308 /prefetch:2
+===============
+ID: 18000, Name: axplong.exe,  CommandLine: "C:\Users\arauj\AppData\Local\Temp\44111dbc49\axplong.exe" 
+===============
+ID: 11696, Name: 25e9d65779.exe,  CommandLine: "C:\Users\arauj\AppData\Local\Temp\1000332001\25e9d65779.exe" 
+===============
+ID: 15072, Name: MSBuild.exe,  CommandLine: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\MSBuild.exe"
+===============
+ID: 14768, Name: d5e4c3fbd3.exe,  CommandLine: "C:\Users\arauj\AppData\Local\Temp\1000349001\d5e4c3fbd3.exe" 
+===============
+ID: 16680, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --string-annotations=is-enterprise-managed=no --extension-process --no-subproc-heap-profiling --video-capture-use-gpu-memory-buffer --lang=pt-BR --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=24 --time-ticks-at-unix-epoch=-1728502511135080 --launch-time-ticks=94250706056 --field-trial-handle=6916,i,5722145221732086336,17287615529498006030,262144 --variations-seed-version=20241010-050112.459000 --mojo-platform-channel-handle=6956 /prefetch:2
+===============
+ID: 17896, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --string-annotations=is-enterprise-managed=no --extension-process --no-subproc-heap-profiling --video-capture-use-gpu-memory-buffer --lang=pt-BR --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=25 --time-ticks-at-unix-epoch=-1728502511135080 --launch-time-ticks=94250765398 --field-trial-handle=6912,i,5722145221732086336,17287615529498006030,262144 --variations-seed-version=20241010-050112.459000 --mojo-platform-channel-handle=6980 /prefetch:2
+===============
+ID: 16788, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --string-annotations=is-enterprise-managed=no --extension-process --no-subproc-heap-profiling --video-capture-use-gpu-memory-buffer --lang=pt-BR --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=26 --time-ticks-at-unix-epoch=-1728502511135080 --launch-time-ticks=94250772417 --field-trial-handle=7004,i,5722145221732086336,17287615529498006030,262144 --variations-seed-version=20241010-050112.459000 --mojo-platform-channel-handle=7164 /prefetch:2
+===============
+ID: 17440, Name: skotes.exe,  CommandLine: "C:\Users\arauj\AppData\Local\Temp\abc3bc1985\skotes.exe"
+===============
+ID: 15644, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --string-annotations=is-enterprise-managed=no --extension-process --no-subproc-heap-profiling --video-capture-use-gpu-memory-buffer --lang=pt-BR --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=29 --time-ticks-at-unix-epoch=-1728502511135080 --launch-time-ticks=94252300215 --field-trial-handle=7996,i,5722145221732086336,17287615529498006030,262144 --variations-seed-version=20241010-050112.459000 --mojo-platform-channel-handle=6688 /prefetch:2
+===============
+ID: 5688, Name: stealc_default2.exe,  CommandLine: "C:\Users\arauj\AppData\Local\Temp\1000066001\stealc_default2.exe" 
+===============
+ID: 3564, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --string-annotations=is-enterprise-managed=no --no-subproc-heap-profiling --video-capture-use-gpu-memory-buffer --lang=pt-BR --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=34 --time-ticks-at-unix-epoch=-1728502511135080 --launch-time-ticks=94255494692 --field-trial-handle=9380,i,5722145221732086336,17287615529498006030,262144 --variations-seed-version=20241010-050112.459000 --mojo-platform-channel-handle=9288 /prefetch:1
+===============
+ID: 20056, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --string-annotations=is-enterprise-managed=no --no-subproc-heap-profiling --video-capture-use-gpu-memory-buffer --lang=pt-BR --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=36 --time-ticks-at-unix-epoch=-1728502511135080 --launch-time-ticks=94255702733 --field-trial-handle=9632,i,5722145221732086336,17287615529498006030,262144 --variations-seed-version=20241010-050112.459000 --mojo-platform-channel-handle=9800 /prefetch:1
+===============
+ID: 10804, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --string-annotations=is-enterprise-managed=no --no-subproc-heap-profiling --video-capture-use-gpu-memory-buffer --lang=pt-BR --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=39 --time-ticks-at-unix-epoch=-1728502511135080 --launch-time-ticks=94257994798 --field-trial-handle=10968,i,5722145221732086336,17287615529498006030,262144 --variations-seed-version=20241010-050112.459000 --mojo-platform-channel-handle=8932 /prefetch:1
+===============
+ID: 19128, Name: 109cd4a717.exe,  CommandLine: "C:\Users\arauj\AppData\Local\Temp\1000354001\109cd4a717.exe" 
+===============
+ID: 14840, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --string-annotations=is-enterprise-managed=no --no-subproc-heap-profiling --video-capture-use-gpu-memory-buffer --lang=pt-BR --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=45 --time-ticks-at-unix-epoch=-1728502511135080 --launch-time-ticks=94262852610 --field-trial-handle=8760,i,5722145221732086336,17287615529498006030,262144 --variations-seed-version=20241010-050112.459000 --mojo-platform-channel-handle=8780 /prefetch:1
+===============
+ID: 13656, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --string-annotations=is-enterprise-managed=no --no-subproc-heap-profiling --video-capture-use-gpu-memory-buffer --lang=pt-BR --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=46 --time-ticks-at-unix-epoch=-1728502511135080 --launch-time-ticks=94263209014 --field-trial-handle=13360,i,5722145221732086336,17287615529498006030,262144 --variations-seed-version=20241010-050112.459000 --mojo-platform-channel-handle=13352 /prefetch:1
+===============
+ID: 20004, Name: valYvJYidA.exe,  CommandLine: "C:\Users\arauj\AppData\Roaming\valYvJYidA.exe" 
+===============
+ID: 8676, Name: iUYbEDy1o2.exe,  CommandLine: "C:\Users\arauj\AppData\Roaming\iUYbEDy1o2.exe" 
+===============
+ID: 14952, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --string-annotations=is-enterprise-managed=no --no-subproc-heap-profiling --video-capture-use-gpu-memory-buffer --lang=pt-BR --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=54 --time-ticks-at-unix-epoch=-1728502511135080 --launch-time-ticks=94296572615 --field-trial-handle=9100,i,5722145221732086336,17287615529498006030,262144 --variations-seed-version=20241010-050112.459000 --mojo-platform-channel-handle=14692 /prefetch:1
+===============
+ID: 17000, Name: dllhost.exe,  CommandLine: C:\Windows\system32\DllHost.exe /Processid:{AB8902B4-09CA-4BB6-B78D-A8F59079A8D5}
+===============
+ID: 8760, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --string-annotations=is-enterprise-managed=no --no-subproc-heap-profiling --video-capture-use-gpu-memory-buffer --lang=pt-BR --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=56 --time-ticks-at-unix-epoch=-1728502511135080 --launch-time-ticks=94310220396 --field-trial-handle=15024,i,5722145221732086336,17287615529498006030,262144 --variations-seed-version=20241010-050112.459000 --mojo-platform-channel-handle=14828 /prefetch:1
+===============
+ID: 7464, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --string-annotations=is-enterprise-managed=no --no-subproc-heap-profiling --video-capture-use-gpu-memory-buffer --lang=pt-BR --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=57 --time-ticks-at-unix-epoch=-1728502511135080 --launch-time-ticks=94311655937 --field-trial-handle=6400,i,5722145221732086336,17287615529498006030,262144 --variations-seed-version=20241010-050112.459000 --mojo-platform-channel-handle=14732 /prefetch:1
+===============
+ID: 10300, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --string-annotations=is-enterprise-managed=no --no-subproc-heap-profiling --video-capture-use-gpu-memory-buffer --lang=pt-BR --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=59 --time-ticks-at-unix-epoch=-1728502511135080 --launch-time-ticks=94314727527 --field-trial-handle=15092,i,5722145221732086336,17287615529498006030,262144 --variations-seed-version=20241010-050112.459000 --mojo-platform-channel-handle=14876 /prefetch:1
+===============
+ID: 18892, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=crashpad-handler "--user-data-dir=C:\Users\arauj\AppData\Local\Google\Chrome\User Data" /prefetch:4 --monitor-self-annotation=ptype=crashpad-handler "--database=C:\Users\arauj\AppData\Local\Google\Chrome\User Data\Crashpad" "--metrics-dir=C:\Users\arauj\AppData\Local\Google\Chrome\User Data" --url=https://clients2.google.com/cr/report --annotation=channel= --annotation=plat=Win64 --annotation=prod=Chrome --annotation=ver=129.0.6668.90 --initial-client-data=0x170,0x174,0x178,0x14c,0x17c,0x7ffc14d27bf8,0x7ffc14d27c04,0x7ffc14d27c10
