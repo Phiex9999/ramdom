@@ -1,0 +1,37 @@
+***********************************************
+*               _   _   _   _                 *
+*              / \ / \ / \ / \                *
+*             ( M | E | T | A )               *
+*              \_/ \_/ \_/ \_/                *
+*                                             *
+*    Telegram: https://t.me/metastealer_bot   *
+***********************************************
+
+Build ID: @OLEH_PSP
+IP: 8.135.98.117
+FileLocation: C:\Users\arauj\AppData\Roaming\iUYbEDy1o2.exe
+UserName: Jonas
+MachineName: NERD_VIRTUAL
+Country: AO
+Zip Code: UNKNOWN
+Location: Luanda, Luanda
+HWID: 09F5FA4ED3F978B069C5D75A2C83F07C
+Current Language: Portuguese (Portugal)
+ScreenSize: {Width=1920, Height=1080}
+TimeZone: (UTC+01:00) África Centro Oeste
+Operation System: Windows 11 Home x64
+Log date: 11/10/2024 2:47:35 PM
+
+Available KeyboardLayouts: 
+Portuguese (Portugal)
+
+
+Hardwares: 
+Name: Total of RAM, 20354.72 Mb or 21343473664 bytes
+Name: Intel(R) Core(TM) i3-7100U CPU @ 2.40GHz, 2 Cores
+Name: AMD Radeon(TM) 530, 2147483648 bytes
+Name: Intel(R) HD Graphics 620, 1073741824 bytes
+
+
+Anti-Viruses: 
+Windows Defender
