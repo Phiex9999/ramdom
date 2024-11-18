@@ -1,0 +1,23 @@
+***********************************************
+*               _   _   _   _                 *
+*              / \ / \ / \ / \                *
+*             ( M | E | T | A )               *
+*              \_/ \_/ \_/ \_/                *
+*                                             *
+*    Telegram: https://t.me/metastealer_bot   *
+***********************************************
+
+guest[last_name]: Mingwang
+last_name: Mingwang
+email: 931769037
+forgot_email: mingwang@zte.com.cn
+first_name: AraГєjo
+login_email: araujo.cataca@i3s.co.ao
+single-line-text-form-component-profileEditFormElement-TOP-CARD-profile-ACoAADr36P0Byhqb5vDK5h7dWIz-ra-HTwd6-CY-lastName: Cataca
+admin_email: webmaster@i3s.co.ao
+txt-email: araujocataca16@gmail.com
+single-line-text-form-component-profileEditFormElement-TOP-CARD-profile-ACoAADr36P0Byhqb5vDK5h7dWIz-ra-HTwd6-CY-firstName: AraГєjo
+lastName: Edna
+firstName: ClГЎudio e
+fwdemail: araujo.cataca@i3s.co.ao
+emailOrPhone: geral@metagest.co.ao
